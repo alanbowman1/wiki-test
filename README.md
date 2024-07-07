@@ -7,7 +7,7 @@ The most important elements are either larger, bolder, in a distinctive color, s
 **Things that are related logically are related visually.**  
 For instance, you can show that things are similar by grouping them together under a heading, displaying them in the same visual style, or putting them all in a clearly defined area. 
 
-**Things are "nested" visually to show what's part of what.**
+**Things are "nested" visually to show what's part of what.**  
 For instance, a site section name (Computer Books) would appear above the title for the individual books, reflecting the fact that the books are part of the section. And each book title in turn would span all the elements that make up the description of the book. 
 
 ## The Non-Designers Design Book (Robin Williams)
@@ -27,10 +27,10 @@ Items relating to each other should be grouped close together. When several item
 Arrangement means order, the organization of visual elements so that readers can see their structure - how they cohere in groups, how they differ from one another, how they create layers and hierarchies. 
 Visual arrangement also involves spatial organization within a field, as in left and right, up and down. Arrangement also governs the organization of the text itself. 
 
-**Emphasis**   
+**Emphasis**   
 Emphasis is about controlling what stands out. Emphasis is the headers on a page, the logo, buttons on a screen, contrast. 
 
-**Clarity**   
+**Clarity**  
 Clarity strategies help the receiver to decode the message, to understand it quickly and completely, and when necessary to react without ambivalence. Clarity strategies span the whole gamut of visual language, everything from typefaces to charts to illustrations. 
 
 **Conciseness**  
@@ -43,7 +43,7 @@ Tone refers to how your communications tone of voice comes across to the reader 
 Ethos establishes a trusting relationship with the listener or reader. The sender (writer) needs to cultivate a sense of character or credibility that will appeal to the audience. Visual language also needs to build trust if it is going to respond adequately to the rhetorical situation. Things like presenting the information objectively or if needed authoritatively help build ethos. 
 
 ## Basic Design Principles (from Basic Technical Communication continuing education course at KSU)
-**Grouping and Separation**  
+**Grouping and Separation**  
 Grouping and Separation of elements governs the movement of the eyes from one part of a design to another. 
 Items related to each other are grouped close together, as they are viewed as one visual element. This guides the reader to each visual element according to its importance. The eyes are then directed throughout the page by the careful placement of text, illustrations, or borders within the design. 
 
