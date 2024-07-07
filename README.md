@@ -1,5 +1,7 @@
 # List of design principles for documents and web sites 
 
+More information can be found on the Wiki: [Wiki-Test Wiki](https://github.com/alanbowman1/wiki-test/wiki)
+
 ## Don't Make Me Think (Steve Krug)
 **The more important something is, the more prominent it is.**  
 The most important elements are either larger, bolder, in a distinctive color, set off by more white space, or nearer the top of the page - or some combination of the above 
